@@ -1,6 +1,6 @@
 {
   "name": "FreeDNS",
-  "version": "0.1",
+  "version": "0.2",
   "slug": "freedns",
   "description": "Free dynamic DNS hosted on freedns.afraid.org",
   "url": "https://github.com/Tommatheussen/hassio-addons/",
@@ -13,6 +13,5 @@
   "schema": {
     "token": "str",
     "seconds": "int"
-  },
-  "image": "homeassistant/{arch}-addon-freedns"
+  }
 }
