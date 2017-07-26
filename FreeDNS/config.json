@@ -14,5 +14,5 @@
     "token": "str",
     "seconds": "int"
   },
-  "image": "homeassistant/{arch}-addon-freedons"
+  "image": "homeassistant/{arch}-addon-freedns"
 }
