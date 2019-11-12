@@ -1,6 +1,6 @@
 {
   "name": "Firefly",
-  "version": "dev",
+  "version": "edge",
   "slug": "firefly",
   "description": "A free and open source personal finance manager",
   "url": "https://github.com/hassio-addons/addon-firefly-iii",
